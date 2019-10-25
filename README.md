@@ -60,11 +60,16 @@ This is the first project of the Microverse Ruby Section
 This is also the first Assignment of the Odin project curriculum https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks
 
 <!-- ABOUT THE PROJECT -->
-## Instalation
+## Installation
 
 If you want to test our code you need to write this at the end and execute it with [ruby](https://repl.it) : 
 
-<script src="https://gist.github.com/euqueme/2d4280311890593e04377c02bee24131.js"></script>
+```
+ex = bubble_sort_by(["hi","hello","hey"]) do |left,right| left.length - right.length end
+
+puts ex
+
+```
 
 ### Built With
 This project was built using these technologies.
