@@ -77,11 +77,7 @@ puts ex
 
 If you want to test our code you need to write this at the end and execute it with [ruby](https://repl.it) : 
 
-ex = bubble_sort_by(["hi","hello","hey"]) do |left,right|
-  left.length - right.length
-end
-
-puts ex
+<script src="https://gist.github.com/euqueme/2d4280311890593e04377c02bee24131.js"></script>
 
 >>>>>>> 112907a... ADD RUBOCOP, EDIT README
 ### Built With
