@@ -9,20 +9,24 @@ def bubble_sort(arr)
 		end
 	end
 	
-	arr == arr.sort ? arr : bubble_sort(arr)
+	arr == arr.sort ?  arr : bubble_sort(arr)
 end
 
-puts bubble_sort([1,2,3])
-
-gets()
-
-=begin
 def bubble_sort_by arr
-  yield
-end
+	len = arr.size-1
+	while len >= 0
+		len.times do |i|
+			left = arr[i]
+			right = arr[i+1]
 
-#last thing
-bubble_sort_by(["hi","hello","hey"]) do |left,right|
-  left.length - right.length
+			if (yield(left, right)) > 0
+				arr[i+1] = left 
+				arr[i] = right 
+			end
+		end
+
+		len -= 1
+	end
+
+	return arr
 end
-=end
