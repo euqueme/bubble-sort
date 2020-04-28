@@ -101,14 +101,14 @@ You can see it working [here](https://repl.it/@MariaEugeniaEu2/HoneydewYellowgre
 
 👤 **Santiago Guerra**
 
-- Github: [@majovanilla](https://github.com/SantiagoGuerra)
+- Github: [@SantiagoGuerra](https://github.com/SantiagoGuerra)
 
 <!-- CONTRIBUTING -->
 ## 🤝 Contributing
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/euqueme/youtube-page/issues).
+Feel free to check the [issues page](https://github.com/euqueme/bubble-sort/issues).
 
 ## Show your support
 
