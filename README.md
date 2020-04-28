@@ -49,8 +49,8 @@
 * [Usage](#usage)
 * [Live Version](#live-version)
 * [Automated Test](#automated-test)
-* [Author](#contact)
-* [Contributing](#contributing)
+* [Author](#author)
+* [Contributing](#-contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
