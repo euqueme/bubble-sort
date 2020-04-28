@@ -25,18 +25,10 @@ Style/Documentation:
 Style/ClassAndModuleChildren:
   Enabled: false
 
-<<<<<<< HEAD
-Layout/HashAlignment:
-=======
 Layout/AlignHash:
->>>>>>> 112907a... ADD RUBOCOP, EDIT README
   EnforcedColonStyle: key
 Layout/ExtraSpacing:
   AllowForAlignment: false
 Layout/MultilineMethodCallIndentation:
   Enabled: true
-<<<<<<< HEAD
   EnforcedStyle: indented
-=======
-  EnforcedStyle: indented
->>>>>>> 112907a... ADD RUBOCOP, EDIT README

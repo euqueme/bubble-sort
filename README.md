@@ -46,8 +46,11 @@
 
 * [About the Project](#about-the-project)
   * [Built With](#built-with)
+* [Usage](#usage)
 * [Live Version](#live-version)
-* [Contact](#contact)
+* [Automated Test](#automated-test)
+* [Author](#contact)
+* [Contributing](#contributing)
 * [Acknowledgements](#acknowledgements)
 
 <!-- ABOUT THE PROJECT -->
@@ -60,8 +63,26 @@ This is the first project of the Microverse Ruby Section
 This is also the first Assignment of the Odin project curriculum https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks
 
 <!-- ABOUT THE PROJECT -->
-<<<<<<< HEAD
-<<<<<<< HEAD
+
+### Built With
+This project was built using these technologies.
+* Ruby
+* Rubocop
+* VsCode
+* Notepad++
+
+<!-- USAGE -->
+## Usage
+
+If you want to test our code you need to write this at the end and execute it with [ruby](https://repl.it) : 
+
+```ruby
+ex = bubble_sort_by(["hi","hello","hey"]) do |left,right| left.length - right.length end
+
+puts ex
+
+```
+
 ## Installation
 
 If you want to test our code you need to write this at the end and execute it with [ruby](https://repl.it) : 
@@ -73,22 +94,6 @@ puts ex
 
 ```
 
-=======
-## Instalation
-=======
-## Installation
->>>>>>> 479edb6... COMENT CODE
-
-If you want to test our code you need to write this at the end and execute it with [ruby](https://repl.it) : 
-
-```
-ex = bubble_sort_by(["hi","hello","hey"]) do |left,right| left.length - right.length end
-
-puts ex
-
-```
-
->>>>>>> 112907a... ADD RUBOCOP, EDIT README
 ### Built With
 This project was built using these technologies.
 * Ruby
@@ -101,15 +106,33 @@ This project was built using these technologies.
 
 You can see it working [here](https://repl.it/@MariaEugeniaEu2/HoneydewYellowgreenExecutables)
 
+<!-- AUTOMATED TEST -->
+## Automated Test
+
+> there are no automated tests for this project yet
+
 <!-- CONTACT -->
-## Contact
+## Author
 
-Santiago Guerra - [@santi_gueam](https://twitter.com/santi_gueam)  - [@SantiagoGuerra](https://github.com/SantiagoGuerra) - guerrasantiago19@gmail.com
-<br />
-<br />
-María Eugenia Quemé - [@MaruKK](https://twitter.com/MaruKK) - [@euqueme](https://github.com/euqueme) - euqueme@gmail.com
+👤 **María Eugenia Quemé**
 
-Project Link: [https://github.com/euqueme/bubble-sort)
+- Github: [@euqueme](https://github.com/euqueme)
+- Linkedin: [María Eguenia Quemé Peña](https://www.linkedin.com/in/maria-queme/)
+
+👤 **Santiago Guerra**
+
+- Github: [@majovanilla](https://github.com/SantiagoGuerra)
+
+<!-- CONTRIBUTING -->
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/euqueme/youtube-page/issues).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
 
 <!-- ACKNOWLEDGEMENTS -->
 ## Acknowledgements
