@@ -60,6 +60,7 @@ This is the first project of the Microverse Ruby Section
 This is also the first Assignment of the Odin project curriculum https://www.theodinproject.com/courses/ruby-programming/lessons/advanced-building-blocks
 
 <!-- ABOUT THE PROJECT -->
+<<<<<<< HEAD
 ## Installation
 
 If you want to test our code you need to write this at the end and execute it with [ruby](https://repl.it) : 
@@ -71,6 +72,18 @@ puts ex
 
 ```
 
+=======
+## Instalation
+
+If you want to test our code you need to write this at the end and execute it with [ruby](https://repl.it) : 
+
+ex = bubble_sort_by(["hi","hello","hey"]) do |left,right|
+  left.length - right.length
+end
+
+puts ex
+
+>>>>>>> 112907a... ADD RUBOCOP, EDIT README
 ### Built With
 This project was built using these technologies.
 * Ruby
