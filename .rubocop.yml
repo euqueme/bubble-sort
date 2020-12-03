@@ -48,3 +48,96 @@ Style/HashTransformKeys:
   Enabled: false
 Style/HashTransformValues:
   Enabled: false
+
+Layout/BeginEndAlignment: 
+  Enabled: false
+Layout/EmptyLinesAroundAttributeAccessor: 
+  Enabled: false
+Layout/SpaceAroundMethodCallOperator: 
+  Enabled: false
+Lint/BinaryOperatorWithIdenticalOperands: 
+  Enabled: false
+Lint/ConstantDefinitionInBlock: 
+  Enabled: false
+Lint/DeprecatedOpenSSLConstant:
+  Enabled: false
+Lint/DuplicateElsifCondition: 
+  Enabled: false
+Lint/DuplicateRequire: 
+  Enabled: false
+Lint/DuplicateRescueException: 
+  Enabled: false
+Lint/EmptyConditionalBody: 
+  Enabled: false
+Lint/EmptyFile: 
+  Enabled: false
+Lint/FloatComparison: 
+  Enabled: false
+Lint/HashCompareByIdentity: 
+  Enabled: false
+Lint/IdentityComparison: 
+  Enabled: false
+Lint/MissingSuper: 
+  Enabled: false
+Lint/MixedRegexpCaptureTypes:
+  Enabled: false
+Lint/OutOfRangeRegexpRef: 
+  Enabled: false
+Lint/RedundantSafeNavigation: 
+  Enabled: false
+Lint/SelfAssignment: 
+  Enabled: false
+Lint/TopLevelReturnWithArgument: 
+  Enabled: false
+Lint/TrailingCommaInAttributeDeclaration: 
+  Enabled: false
+Lint/UnreachableLoop: 
+  Enabled: false
+Lint/UselessMethodDefinition: 
+  Enabled: false
+Lint/UselessTimes: 
+  Enabled: false
+Style/AccessorGrouping: 
+  Enabled: false
+Style/BisectedAttrAccessor: 
+  Enabled: false
+Style/CaseLikeIf: 
+  Enabled: false
+Style/ClassEqualityComparison: 
+  Enabled: false
+Style/CombinableLoops: 
+  Enabled: true
+Style/ExplicitBlockArgument: 
+  Enabled: true
+Style/ExponentialNotation: 
+  Enabled: true
+Style/GlobalStdStream: 
+  Enabled: true
+Style/HashAsLastArrayItem: 
+  Enabled: true
+Style/HashLikeCase: 
+  Enabled: true
+Style/KeywordParametersOrder: 
+  Enabled: true
+Style/OptionalBooleanParameter: 
+  Enabled: true
+Style/RedundantAssignment: 
+  Enabled: true
+Style/RedundantFetchBlock: 
+  Enabled: true
+Style/RedundantFileExtensionInRequire: 
+  Enabled: true
+Style/RedundantRegexpCharacterClass:
+  Enabled: true
+Style/RedundantRegexpEscape:
+  Enabled: true
+Style/RedundantSelfAssignment: 
+  Enabled: true
+Style/SingleArgumentDig: 
+  Enabled: true
+Style/SlicingWithRange: 
+  Enabled: true
+Style/SoleNestedConditional: 
+  Enabled: true
+Style/StringConcatenation: 
+  Enabled: true
