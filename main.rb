@@ -1,5 +1,3 @@
-# frozen_string_literal: true
-
 def bubble_sort(arr)
   len = arr.size - 1
   len.times do |i|
